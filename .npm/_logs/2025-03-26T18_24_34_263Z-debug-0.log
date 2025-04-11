@@ -1,0 +1,36 @@
+0 verbose cli /home/sofiz/.nvm/versions/node/v19.9.0/bin/node /home/sofiz/.nvm/versions/node/v19.9.0/bin/npm
+1 info using npm@9.6.3
+2 info using node@v19.9.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/sofiz/.nvm/versions/node/v19.9.0/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/sofiz/lab-03-sofiiazamora/Y/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:/home/sofiz/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/home/sofiz/.nvm/versions/node/v19.9.0/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 9ms
+17 timing npm:load:configload Completed in 9ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 1ms
+20 verbose title npm pkg set scripts.build:css:compile=sass ./app/assets/stylesheets/application.bootstrap.scss:./app/assets/builds/application.css --no-source-map --load-path=node_modules
+21 verbose argv "pkg" "set" "scripts.build:css:compile=sass ./app/assets/stylesheets/application.bootstrap.scss:./app/assets/builds/application.css --no-source-map --load-path=node_modules"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing config:load:flatten Completed in 2ms
+24 timing npm:load:display Completed in 2ms
+25 verbose logfile logs-max:10 dir:/home/sofiz/.npm/_logs/2025-03-26T18_24_34_263Z-
+26 verbose logfile /home/sofiz/.npm/_logs/2025-03-26T18_24_34_263Z-debug-0.log
+27 timing npm:load:logFile Completed in 5ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 20ms
+31 silly logfile done cleaning log files
+32 timing command:pkg Completed in 44ms
+33 verbose exit 0
+34 timing npm Completed in 71ms
+35 info ok
